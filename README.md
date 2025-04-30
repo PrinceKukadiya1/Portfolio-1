@@ -55,12 +55,4 @@ portfolio/
 ├── app.js           # JavaScript functionality
 └── README.md        # Project documentation
 
-
-
-
-
-LinkedIn: Your LinkedIn Profile
-
-Portfolio: Your Portfolio Website
-
 Thank you for visiting my portfolio! Feel free to reach out if you want to collaborate or have any questions!
