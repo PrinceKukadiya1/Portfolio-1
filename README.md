@@ -26,6 +26,25 @@ CSS3
 
 JavaScript
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/322752ba-b4d9-404c-a6ed-eb3ea8964b13" alt="Mobile View" width="200"/>
+      <p align="center">Mobile View</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/3fe7b7cb-5135-4615-a93e-0269b4e439eb" alt="Tablet View" width="200"/>
+      <p align="center">Tablet View</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c9f2c91f-b605-4bec-9988-bbca19f3d52f" alt="Desktop View" width="200"/>
+      <p align="center">Desktop View</p>
+    </td>
+  </tr>
+</table>
+
+
 ### Mobile View
 <img src="https://github.com/user-attachments/assets/322752ba-b4d9-404c-a6ed-eb3ea8964b13" alt="Mobile View" width="300"/>
 
@@ -35,7 +54,7 @@ JavaScript
 ![Tablet View](https://github.com/user-attachments/assets/3fe7b7cb-5135-4615-a93e-0269b4e439eb)
 
 ### Desktop View
-![Desktop View](https://github.com/user-attachments/assets/c9f2c91f-b605-4bec-9988-bbca19f3d52f)
+![Desktop View]()
 
 ## 📂 Project Structure
 
