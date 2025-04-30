@@ -752,6 +752,20 @@ h3.my-profession {
     padding: 0 50px;
 }
 
+/* Footer */
+.footer {
+    background-color: var(--bg-black-100);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 14px;
+    color: var(--text-black-700);
+    border-top: 1px solid var(--bg-black-50);
+}
+
+.footer span{
+    color: var(--skin-color);
+}
+
 @media (max-width:1150px) {
 
     .section .container {
