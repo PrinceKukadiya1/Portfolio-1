@@ -27,7 +27,9 @@ CSS3
 JavaScript
 
 ### Mobile View
-![Mobile View](https://github.com/user-attachments/assets/322752ba-b4d9-404c-a6ed-eb3ea8964b13)
+<img src="https://github.com/user-attachments/assets/322752ba-b4d9-404c-a6ed-eb3ea8964b13" alt="Mobile View" width="300"/>
+
+![Mobile View]
 
 ### Tablet View
 ![Tablet View](https://github.com/user-attachments/assets/3fe7b7cb-5135-4615-a93e-0269b4e439eb)
