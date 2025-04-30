@@ -45,14 +45,4 @@ JavaScript
 </table>
 
 
-## 📂 Project Structure
-
-portfolio/
-├── assets/          # Images and icons
-├── components/      # Reusable components like Navbar, Sidebar, About, Contact
-├── styles/          # CSS or SCSS files
-├── index.html       # Main HTML page
-├── app.js           # JavaScript functionality
-└── README.md        # Project documentation
-
 Thank you for visiting my portfolio! Feel free to reach out if you want to collaborate or have any questions!
