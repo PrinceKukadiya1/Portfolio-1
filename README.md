@@ -26,15 +26,14 @@ CSS3
 
 JavaScript
 
-
 ### Mobile View
-![Mobile View](assets/screenshots/mobile.png)
+![Mobile View](https://github.com/user-attachments/assets/322752ba-b4d9-404c-a6ed-eb3ea8964b13)
 
 ### Tablet View
-![Tablet View](assets/screenshots/tablet.png)
+![Tablet View](https://github.com/user-attachments/assets/3fe7b7cb-5135-4615-a93e-0269b4e439eb)
 
 ### Desktop View
-![Desktop View](assets/screenshots/desktop.png)
+![Desktop View](https://github.com/user-attachments/assets/c9f2c91f-b605-4bec-9988-bbca19f3d52f)
 
 ## 📂 Project Structure
 
