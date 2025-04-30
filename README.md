@@ -1,12 +1,12 @@
-🌟 Prince Kukadiya's Portfolio
+#Prince Kukadiya's Portfolio
 
 Welcome to my personal web portfolio repository! This project showcases my skills, work experience, and passion for web development.
 
-📄 About
+#About
 
 Hi! I'm Prince Kukadiya, a dedicated Web Developer passionate about building clean, efficient, and visually appealing websites. This portfolio website features an overview of my journey, my projects, and how you can get in touch with me.
 
-🚀 Features
+##🚀 Features
 
 Fully responsive design
 
@@ -18,7 +18,7 @@ Easy-to-use sidebar navigation
 
 Animated text and call-to-action buttons
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 HTML5
 
@@ -28,7 +28,7 @@ JavaScript
 
 (Optional: React.js, Node.js if used)
 
-📸 Screenshots
+##📸 Screenshots
 
 Mobile View
 
@@ -44,7 +44,7 @@ Desktop View
 
 (Replace image paths with the correct ones if different)
 
-📂 Project Structure
+##📂 Project Structure
 
 portfolio/
 ├── assets/          # Images and icons
@@ -54,15 +54,13 @@ portfolio/
 ├── app.js           # JavaScript functionality
 └── README.md        # Project documentation
 
-🔥 Live Demo
+##🔥 Live Demo
 
 Check out the live version here: Portfolio Live Link
 
 (Add your deployed link when available)
 
-📢 Contact
 
-Email: your.email@example.com
 
 LinkedIn: Your LinkedIn Profile
 
