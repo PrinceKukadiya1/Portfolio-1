@@ -858,43 +858,6 @@ h3.my-profession {
         border-radius: 50%;
     }
    
-    /*
-
-     part - 1
-
-    .home .home-info {
-        flex: 0 0 100%;
-        max-width: 100%;
-        text-align: center;
-    }
-
-    .home .home-img {
-        flex: 0 0 100%;
-        max-width: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top: 20px;
-    }
-
-    .home .home-img img {
-        width: 70%;
-        max-width: 250px;
-        height: auto;
-    } */
-
-
-
-    /* 
-    part-2
-    .home .home-info{
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
-
-    .home .home-img{
-        display: none;
-    } */
 }
 
 @media(max-width:750px) {
@@ -912,3 +875,108 @@ h3.my-profession {
     }
     
 }
+
+
+  .card-container {
+    perspective: 1000px;
+    width: 100%;
+    max-width: 450px;
+    margin: 1rem auto;
+    height: auto;
+    color: white;
+  }
+  
+  .card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    min-height: 300px; /* Set a consistent height */
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+  }
+  
+  .card-container.flipped .card {
+    transform: rotateY(180deg);
+  }
+  
+  .card-front,
+  .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    padding: 1rem;
+    box-sizing: border-box;
+    border-radius: 12px;
+    background: rgb(34, 36, 40);
+    box-shadow: 2px 4px 8px var(--skin-color , 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .card-front {
+    z-index: 2;
+  }
+  
+  .card-front h3{
+    margin-top: 10px;
+  }
+  .card-back {
+    transform: rotateY(180deg);
+  }
+
+  .card-back h4{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 3px;
+  }
+  
+  .card-front img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  /* Responsive media query */
+   @media (max-width: 600px) {
+    .card-container {
+      max-width: 90%;
+    }
+  
+    .card {
+      min-height: 360px;
+    }
+  
+    .card-front img{
+        max-width: 100%;
+        object-fit: contain;
+    }
+
+    .card-back p {
+      font-size: 0.9rem;
+    }
+  }
+  
+
+  @media (max-width: 480px) {
+    .card-image {
+      height: 140px;
+    }
+  
+    .project-card {
+      max-width: 90%;
+    }
+  
+    .card-back p {
+        font-size: 0.8rem;
+    }
+
+    .card-title {
+      font-size: 1rem;
+    }
+  } 
+  
